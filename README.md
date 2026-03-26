@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Maria Larysse</h1>
 <h3 align="center">A passionate developer and marketing professional</h3>
 
