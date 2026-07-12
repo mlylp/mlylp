@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlylp" alt="mlylp" /></a> </p>
 
-- 🔭 I’m currently working on [Oracle Next Education - Artificial Intelligence Imersion]([https://github.com/mlylp/Cogni_mentoria_entre_alunos](https://github.com/mlylp/AI_Oracle_Next_Education))
+- 🔭 I’m currently working on [Oracle Next Education - Artificial Intelligence Imersion]([https://github.com/mlylp/AI_Oracle_Next_Education])
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
